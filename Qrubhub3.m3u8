@@ -5,6 +5,6 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:BANDWIDTH=1500000,AVERAGE-BANDWIDTH=1491434,RESOLUTION=1080x720,FRAME-RATE=25.000,CODECS="avc1.77.30,mp4a.40.5",AUDIO="audio_0"
-http://unknown.protv.cc:80/play/live.php?mac=00:1A:79:B0:6B:02&stream=1110665&extension=m3u8
+http://dream4ktv.net:80/play/live.php?mac=00:1A:79:D2:2D:A8&stream=264398&extension=m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=4000000,AVERAGE-BANDWIDTH=3891434,RESOLUTION=1920x1080,FRAME-RATE=30.000,CODECS="avc1.77.30,mp4a.40.5",AUDIO="audio_0"
-http://unknown.protv.cc:80/play/live.php?mac=00:1A:79:B0:6B:02&stream=1110665&extension=m3u8
+http://dream4ktv.net:80/play/live.php?mac=00:1A:79:D2:2D:A8&stream=264398&extension=m3u8
