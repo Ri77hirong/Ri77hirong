@@ -17,7 +17,7 @@
 	<ServiceDescription id="0">
 	</ServiceDescription>
 	<Period id="0" start="PT0.0S">
-		<BaseURL>https://load.perfecttv.net/mpd/prima/</BaseURL>
+		<BaseURL>https://load.perfecttv.net/mpd/prima/manifest.mpd?username=vip_pjgkj04t&password=sM53WzmS&channel=prima</BaseURL>
 		<AdaptationSet id="0" contentType="video" startWithSAP="1" segmentAlignment="true" bitstreamSwitching="true" frameRate="25/1" maxWidth="1280" maxHeight="720" par="16:9">
 			<Representation id="0" mimeType="video/mp4" codecs="avc1.640029" bandwidth="1853700" width="1280" height="720" scanType="unknown" sar="1:1">
 				<SegmentTemplate timescale="12800" initialization="init_$RepresentationID$.mp4" media="chunk_$RepresentationID$_$Number$.m4s" startNumber="23759">
