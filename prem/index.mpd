@@ -7,8 +7,8 @@
 	type="dynamic"
 	minimumUpdatePeriod="PT1S"
 	suggestedPresentationDelay="PT1S"
-	availabilityStartTime="2026-01-23T05:10:06.098Z"
-	publishTime="2026-01-23T17:23:20.377Z"
+	availabilityStartTime="2026-01-24T22:10:25.098Z"
+	publishTime="2026-01-24T22:10:20.377Z"
 	timeShiftBufferDepth="PT36.0S"
 	maxSegmentDuration="PT1.0S"
 	minBufferTime="PT2.4S">
@@ -17,7 +17,7 @@
 	<ServiceDescription id="0">
 	</ServiceDescription>
 	<Period id="0" start="PT0.0S">
-		<BaseURL>https://live.aqfadtv.xyz/prima/</BaseURL>
+		<BaseURL>https://load.perfecttv.net/mpd/prima/</BaseURL>
 		<AdaptationSet id="0" contentType="video" startWithSAP="1" segmentAlignment="true" bitstreamSwitching="true" frameRate="25/1" maxWidth="1280" maxHeight="720" par="16:9">
 			<Representation id="0" mimeType="video/mp4" codecs="avc1.640029" bandwidth="1853700" width="1280" height="720" scanType="unknown" sar="1:1">
 				<SegmentTemplate timescale="12800" initialization="init_$RepresentationID$.mp4" media="chunk_$RepresentationID$_$Number$.m4s" startNumber="23759">
